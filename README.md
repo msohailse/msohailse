@@ -45,8 +45,8 @@ I build and run production AI systems end to end, from data model and API to UI,
 |---|---|
 | [PySummarize](https://github.com/msohailse/PySummarize) | ML-based Python code summarization with a Transformer architecture |
 | [Token merging for visual document retrieval](https://github.com/msohailse/Static-vs-Dynamic-Token-Merging-for-Visual-Document-Retrieval) | Research comparing static and dynamic token merging |
-| [microservices-demo-spe](https://github.com/msohailse/microservices-demo-spe) | End-to-end Kubernetes case study with tuned probes and resources |
 | [db-shifting](https://github.com/msohailse/db-shifting) | API that moves a database between servers from source and destination URLs |
+| [js-algorithms](https://github.com/msohailse/js-algorithms) | LeetCode and Codility problem solutions in JavaScript |
 
 ### Education
 
