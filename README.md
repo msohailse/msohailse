@@ -13,6 +13,14 @@
 
 ---
 
+### About
+
+Full Stack Engineer with 7+ years of experience building scalable distributed systems, backed by DevOps and data expertise, now delivering agentic AI and LLM applications on top of that foundation. Strong background in designing microservices, REST APIs, and performance optimized systems deployed on Kubernetes, supported by CI/CD, testing, cross functional collaboration, and AI accelerated development workflows.
+
+Architects governed production AI systems built for real operational constraints: multi agent workflows, RBAC protected MCP servers, and grounded RAG pipelines on vector databases, engineered with cost caps, container isolation, supervision, and audit logging from day one alongside custom ML models.
+
+Core stack spans TypeScript, Node.js, Python, Next.js, React, Angular, and SQL/NoSQL databases (PostgreSQL, MongoDB). Proven mobile delivery with shipped Flutter apps including iRide (60,000+ users) and HCAI (a WHO backed surgical infection tracker built as a volunteer), targeting sustainability and impact driven teams.
+
 ### What I do
 
 I build and run production AI systems end to end, from data model and API to UI, CI/CD and cloud:
