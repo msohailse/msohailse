@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Sohail 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer</b> · LLMs, AI Agents, RAG, MCP<br/>
-  TypeScript, React, Node.js, Python · AWS Certified
+  <b>Full-Stack Engineer | LLMs, AI Agents, RAG, MCP | TypeScript, React, Node.js, Python | AWS Certified</b>
 </p>
 
 <p align="center">
